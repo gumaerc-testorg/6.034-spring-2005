@@ -3,8 +3,13 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 5. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-034-artificial-intelligence-spring-2005/894733be41a38af4bba08fbcaac52bec_ch5_mach1.pdf
+file: /media/courses/6-034-artificial-intelligence-spring-2005/894733be41a38af4bba08fbcaac52bec_ch5_mach1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: ch5_mach1.pdf
 uid: 894733be-41a3-8af4-bba0-8fbcaac52bec
