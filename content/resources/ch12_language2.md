@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 427ff890-f3d0-577b-50d8-a87738f60929
 resourcetype: Document
 title: ch12_language2.pdf
 uid: 5bff7de5-c592-ccea-4ea6-b5834406f651

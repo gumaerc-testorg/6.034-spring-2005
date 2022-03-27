@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 427ff890-f3d0-577b-50d8-a87738f60929
 resourcetype: Document
 title: ch10_logic2b.pdf
 uid: 4d283321-91a0-3308-93ec-e9bfdb9c14f3

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 427ff890-f3d0-577b-50d8-a87738f60929
 resourcetype: Document
 title: ch3_csp_games2.pdf
 uid: 2a2f3473-57dc-1e68-3ece-44aec2f81e5e
