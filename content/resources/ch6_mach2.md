@@ -7,6 +7,7 @@ file: /courses/6-034-artificial-intelligence-spring-2005/3effa3b9e955738f0fb9775
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch6_mach2.pdf
 uid: 3effa3b9-e955-738f-0fb9-775c8f578d69
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 6. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-

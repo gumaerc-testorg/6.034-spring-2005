@@ -7,6 +7,7 @@ file: /courses/6-034-artificial-intelligence-spring-2005/bb26fa739b6e280cd9cf327
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch9_logic1a.pdf
 uid: bb26fa73-9b6e-280c-d9cf-3277ed42dcaf
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 9. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-

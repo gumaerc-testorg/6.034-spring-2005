@@ -7,6 +7,7 @@ file: /courses/6-034-artificial-intelligence-spring-2005/b18df01051c812b00434e5f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ch11_logicprog.pdf
 uid: b18df010-51c8-12b0-0434-e5fe921140de
 ---
 This resource contains lecture slides and accompanying transcripts for chapter 11. The transcripts allow students to review lecture material in detail as they study for upcoming assignments and quizzes.
-

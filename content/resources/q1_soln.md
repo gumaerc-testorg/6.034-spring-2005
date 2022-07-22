@@ -6,6 +6,7 @@ file: /courses/6-034-artificial-intelligence-spring-2005/ee79c26a7f11a189e90e30f
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: q1_soln.pdf
 uid: ee79c26a-7f11-a189-e90e-30ff46a408b3
 ---
 This resource provides 5 questions for quiz 1 along with their grading points.
-
