@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: The readings section lists the suggested readings for the course as per
+  the lecture topics.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: fbb332f4-2597-af96-2282-2e55c89e0b25
 ---
 
-Required readings come directly from the course [lecture notes]({{< baseurl >}}/pages/lecture-notes). Additional reading can be found in the following text:
+Required readings come directly from the course {{% resource_link 427ff890-f3d0-577b-50d8-a87738f60929 "lecture notes" %}}. Additional reading can be found in the following text:
 
 Russell, Stuart J., and Peter Norvig. _Artificial intelligence: a modern approach_. 2nd edition. Upper Saddle River, NJ: Prentice Hall, 2003. ISBN: 0137903952. (AIMA2E).
 
