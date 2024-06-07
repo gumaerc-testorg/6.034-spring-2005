@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 3. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
 file: /courses/6-034-artificial-intelligence-spring-2005/2a2f347357dc1e683ece44aec2f81e5e_ch3_csp_games2.pdf
+file_size: 811342
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
