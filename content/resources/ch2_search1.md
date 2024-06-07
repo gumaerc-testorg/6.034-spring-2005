@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 2. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
 file: /courses/6-034-artificial-intelligence-spring-2005/921a7a2eca07e1721e8c1cac1813f4c6_ch2_search1.pdf
+file_size: 2770912
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains lecture slides and accompanying transcripts 
   chapter 8. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
 file: /courses/6-034-artificial-intelligence-spring-2005/6b1485e54f05bae62b16e465ed283220_ch8_mach4.pdf
+file_size: 2244277
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

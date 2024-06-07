@@ -6,6 +6,7 @@ description: This assignment looks at problems drawn (but simplified) from real 
   in Chapters 2 and 3. It also covers topics such as instructions for the assignment,
   grading criteria, problem descriptions and sample solutions.
 file: /courses/6-034-artificial-intelligence-spring-2005/430b637f7b8a84dd833db697186a7ce8_dp1.pdf
+file_size: 168434
 file_type: application/pdf
 learning_resource_types:
 - Projects

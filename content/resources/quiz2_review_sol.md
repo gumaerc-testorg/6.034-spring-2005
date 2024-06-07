@@ -3,6 +3,7 @@ content_type: resource
 description: This resource provides solutions to the reviews of quiz 2 questions along
   with their grading points.
 file: /courses/6-034-artificial-intelligence-spring-2005/bc2fa6bd35ca7898a7f755dc37687ba7_quiz2_review_sol.pdf
+file_size: 631775
 file_type: application/pdf
 learning_resource_types:
 - Exams
