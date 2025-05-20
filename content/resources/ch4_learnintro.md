@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 4. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
-file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/be60e17a17a8f2be3bd6446cb976212f_ch4_learnintro.pdf
+file: /courses/6-034-artificial-intelligence-spring-2005/be60e17a17a8f2be3bd6446cb976212f_ch4_learnintro.pdf
 file_size: 2799564
 file_type: application/pdf
 learning_resource_types:

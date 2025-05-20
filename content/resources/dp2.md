@@ -3,7 +3,7 @@ content_type: resource
 description: This assignment is to gain some practice in the application of machine
   algorithms to real data. It also provides two data sets and a framawork that will
   allow the students to experiment with diffrent algorithms on that data.
-file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/75e9bf9636414b970e1ca09cca0f3a74_dp2.pdf
+file: /courses/6-034-artificial-intelligence-spring-2005/75e9bf9636414b970e1ca09cca0f3a74_dp2.pdf
 file_size: 105254
 file_type: application/pdf
 learning_resource_types:
