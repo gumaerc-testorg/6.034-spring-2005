@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 5. The transcripts allow students to review lecture material in detail as
   they study for upcoming assignments and quizzes.
-file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/894733be41a38af4bba08fbcaac52bec_ch5_mach1.pdf
+file: /courses/6-034-artificial-intelligence-spring-2005/894733be41a38af4bba08fbcaac52bec_ch5_mach1.pdf
 file_size: 1838098
 file_type: application/pdf
 learning_resource_types:

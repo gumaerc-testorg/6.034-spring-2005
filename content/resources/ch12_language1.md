@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 12. The transcripts allow students to review lecture material in detail
   as they study for upcoming assignments and quizzes.
-file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/30b8b46009069f325430bda3d7c73616_ch12_language1.pdf
+file: /courses/6-034-artificial-intelligence-spring-2005/30b8b46009069f325430bda3d7c73616_ch12_language1.pdf
 file_size: 2380055
 file_type: application/pdf
 learning_resource_types:
