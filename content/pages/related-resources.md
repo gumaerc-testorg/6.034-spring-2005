@@ -2,12 +2,12 @@
 content_type: page
 description: The related resources section provides information about the interactive
   lectures and on-line exercises.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 1ad70060-30ea-3531-5ba7-a7a56450e4be
 ---
-
 Interactive Lectures and On-line Exercises
 ------------------------------------------
 
