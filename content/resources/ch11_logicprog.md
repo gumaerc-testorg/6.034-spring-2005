@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains lecture slides and accompanying transcripts for
   chapter 11. The transcripts allow students to review lecture material in detail
   as they study for upcoming assignments and quizzes.
-file: /courses/6-034-artificial-intelligence-spring-2005/b18df01051c812b00434e5fe921140de_ch11_logicprog.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/b18df01051c812b00434e5fe921140de_ch11_logicprog.pdf
 file_size: 1411705
 file_type: application/pdf
 learning_resource_types:

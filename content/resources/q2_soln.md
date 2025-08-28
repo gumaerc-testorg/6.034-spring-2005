@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides 9 questions for quiz 2 along with their grading
   points.
-file: /courses/6-034-artificial-intelligence-spring-2005/39516d2c825da50a4e5b98ab5960deea_q2_soln.pdf
+file: /ol-ocw-studio-app/courses/6-034-artificial-intelligence-spring-2005/39516d2c825da50a4e5b98ab5960deea_q2_soln.pdf
 file_size: 607159
 file_type: application/pdf
 learning_resource_types:
