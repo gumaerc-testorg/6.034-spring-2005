@@ -27,7 +27,3 @@ leftnav:
   name: Study Materials
   pageRef: /pages/study-materials
   weight: 70
-- identifier: 1ad70060-30ea-3531-5ba7-a7a56450e4be
-  name: Related Resources
-  pageRef: /pages/related-resources
-  weight: 80
